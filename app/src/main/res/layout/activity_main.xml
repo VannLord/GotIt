@@ -5,8 +5,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity"
     android:layout_margin="16dp"
-    android:orientation="vertical"
-    android:background="@android:color/holo_orange_dark">
+    android:orientation="vertical">
 
     <ImageView
         android:id="@+id/imgInput"
