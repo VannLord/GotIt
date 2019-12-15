@@ -24,12 +24,10 @@
             android:layout_height="wrap_content"
             android:text="RECOGNIZE" />
         <Button
-            android:id="@+id/btnCamera"
+            android:id="@+id/btnSolve"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="OPEN CAMERA"/>
-
-
+            android:text="SOLVE"/>
     </LinearLayout>
 
     <TextView
@@ -40,5 +38,4 @@
         android:textSize="20sp"
         android:gravity="center"
         android:layout_marginTop="16dp"/>
-
 </LinearLayout>
